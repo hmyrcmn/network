@@ -1,0 +1,3 @@
+/home/hmyr/ns-allinone-3.41/ns-3.41/scratch/hmyr/build/CMakeFiles/hmyr.dir
+/home/hmyr/ns-allinone-3.41/ns-3.41/scratch/hmyr/build/CMakeFiles/edit_cache.dir
+/home/hmyr/ns-allinone-3.41/ns-3.41/scratch/hmyr/build/CMakeFiles/rebuild_cache.dir
